@@ -2,7 +2,7 @@
 
 Olá! Essa é minha primeira contribuição Open Source. 💻
 
-- 💁🏽‍♀️ Nome: Lorrane Rodrigues
+- 💁🏽‍♀️ Nome: Lorrane Silva
 - 🎯 Objetivo: Me tornar uma engenheira de software com foco em desenvolvimento Full Stack
 - 💡 Bootcamp: Santander Bootcamp 2025 - Front-End com Angular
 

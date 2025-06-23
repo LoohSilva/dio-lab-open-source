@@ -1,3 +1,17 @@
+# 🚀 Minha Contribuição - Lorrane Silva
+
+Olá! Essa é minha primeira contribuição Open Source. 💻
+
+- 💁🏽‍♀️ Nome: Lorrane Rodrigues
+- 🎯 Objetivo: Me tornar uma engenheira de software com foco em desenvolvimento Full Stack
+- 💡 Bootcamp: Santander Bootcamp 2025 - Front-End com Angular
+
+---
+
+# dio-lab-open-source
+
+[conteúdo original continua aqui...]
+
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
